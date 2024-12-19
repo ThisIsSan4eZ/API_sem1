@@ -862,6 +862,33 @@
             "rid": "win"
           }
         }
+      },
+      "BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLogic.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.36",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.36"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
       }
     }
   },
@@ -2457,10 +2484,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../BusinessLogic/BusinessLogic.csproj",
+      "msbuildProject": "../BusinessLogic/BusinessLogic.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BusinessLogic >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.36",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.36",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -2498,7 +2536,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\BusinessLogic\\BusinessLogic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

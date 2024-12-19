@@ -74,3 +74,7 @@ C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\obj\Debug\net6.0\refin
 C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\obj\Debug\net6.0\Musicshare_API.pdb
 C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\obj\Debug\net6.0\Musicshare_API.genruntimeconfig.cache
 C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\obj\Debug\net6.0\ref\Musicshare_API.dll
+C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\bin\Debug\net6.0\DataAccess.dll
+C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\DjSta\source\repos\Musicshare_API\Musicshare_API\bin\Debug\net6.0\DataAccess.pdb
