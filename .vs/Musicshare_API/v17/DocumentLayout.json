@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\bandlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\bandmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\bandmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\bandmembers_bands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\bandmembers_bands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\genrelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\genrelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\releaselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\releaselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\releasetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\releasetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\songlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\models\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\models\\bandmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\models\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\models\\bandlist_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\migrations\\bandlist_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\migrations\\bandlist_dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|c:\\users\\djsta\\source\\repos\\musicshare_api\\musicshare_api\\migrations\\20241217175008_your_migratonname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74896BBB-A3EA-4522-9022-D56AEF6371AC}|Musicshare_API\\Musicshare_API.csproj|solutionrelative:musicshare_api\\migrations\\20241217175008_your_migratonname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bandlist.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Bandlist.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Bandlist.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Bandlist.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Bandlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:04:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Program.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Program.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Program.cs",
+              "RelativeToolTip": "Musicshare_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:23:51.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bandmembers.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Bandmembers.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Bandmembers.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Bandmembers.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Bandmembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:04:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bandmembers_bands.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Bandmembers_bands.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Bandmembers_bands.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Bandmembers_bands.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Bandmembers_bands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:03:49.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Countries.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Countries.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Countries.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Countries.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Countries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:02:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genrelist.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Genrelist.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Genrelist.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Genrelist.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Genrelist.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:02:16.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Languages.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Languages.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Languages.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Languages.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Languages.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:01:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Releaselist.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Releaselist.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Releaselist.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Releaselist.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Releaselist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:00:34.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Releasetype.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Releasetype.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Releasetype.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Releasetype.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Releasetype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:00:03.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Songlist.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Songlist.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Songlist.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Songlist.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Songlist.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:59:20.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Userfavorite.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Userfavorite.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\Userfavorite.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\Userfavorite.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\Userfavorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:56:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Models\\Country.cs",
+              "RelativeToolTip": "Musicshare_API\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:55:43.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BandMember.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Models\\BandMember.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Models\\BandMember.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Models\\BandMember.cs",
+              "RelativeToolTip": "Musicshare_API\\Models\\BandMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:55:39.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Musicshare_API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:53:52.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Musicshare_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\appsettings.json",
+              "RelativeToolTip": "Musicshare_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T18:40:51.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BandList_dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Models\\BandList_dbContext.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Models\\BandList_dbContext.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Models\\BandList_dbContext.cs",
+              "RelativeToolTip": "Musicshare_API\\Models\\BandList_dbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:39:13.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BandList_dbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "RelativeToolTip": "Musicshare_API\\Migrations\\BandList_dbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:51:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241217175008_Your_MigratonName.cs",
+              "DocumentMoniker": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Migrations\\20241217175008_Your_MigratonName.cs",
+              "RelativeDocumentMoniker": "Musicshare_API\\Migrations\\20241217175008_Your_MigratonName.cs",
+              "ToolTip": "C:\\Users\\DjSta\\source\\repos\\Musicshare_API\\Musicshare_API\\Migrations\\20241217175008_Your_MigratonName.cs",
+              "RelativeToolTip": "Musicshare_API\\Migrations\\20241217175008_Your_MigratonName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:50:09.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
