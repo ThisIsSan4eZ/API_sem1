@@ -3,19 +3,20 @@ using BusinessLogic.Services;
 using DataAccess.Wrapper;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.EntityFrameworkCore;
-using Musicshare_API.Migrations;
-using Musicshare_API.Models;
+//возможно using DataAccess.Migrations;
+using DataAccess.Models;
 
 namespace Musicshare_API
 {
+
     public class Program
     {
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddDbContext<BandList_dbContext>(
-                optionsAction: options => options.UseSqlServer("Server = DESKTOP-1O4DD38; Database = BandList_db; Trusted_Connection = True;"));
+            builder.Services.AddDbContext<DataAccess.Models.BandList_dbContext>(
+                optionsAction: options => options.UseSqlServer("Server = DESKTOP-GKGB1EG; Database = BandList_db; Trusted_Connection = True;"));
 
 
             builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
@@ -46,6 +47,7 @@ namespace Musicshare_API
             app.MapControllers();
 
             app.Run();
+
 
         }
     }

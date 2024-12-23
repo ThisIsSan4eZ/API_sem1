@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Musicshare_API.Models;
+using DataAccess.Models;
 
 namespace Musicshare_API.Controllers
 {

@@ -12,3 +12,17 @@ C:\Users\DjSta\source\repos\Musicshare_API\DataAccess\obj\Debug\net6.0\DataAcces
 C:\Users\DjSta\source\repos\Musicshare_API\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
 C:\Users\DjSta\source\repos\Musicshare_API\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
 C:\Users\DjSta\source\repos\Musicshare_API\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\DjSta\Desktop\API_sem1-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
